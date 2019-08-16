@@ -1,0 +1,162 @@
+nav ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+ 
+}
+.backred{
+ background-color: #C12127;
+  
+}
+
+.blanco{
+ color: white;
+
+}
+
+.right {
+  float: right;
+}
+
+.left {
+  float: left;
+}
+
+.logo {
+  float: left;
+  padding: 14px 16px;
+}
+nav li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+div#navbar_div li a:hover {
+  background-color: #111;
+}
+  
+ .city {
+    background-image: url(images/city-scape.svg);
+	 overflow:visible;
+	   height:320px;
+   padding: 14px 0px;
+	 
+ }
+ 
+ .forklift {
+    background-image: url(images/forklift.svg);
+	 overflow:visible;
+	   height:320px;
+   padding: 14px 0px;
+	 
+ }
+ 
+ .collaboration {
+    background-color: rgb(37, 53, 69);
+	 overflow:visible;
+	   height:320px;
+   padding: 14px 0px;
+	 
+ }
+ 
+ footer {
+    background-color:white;
+	 overflow:visible;
+	   height:320px;
+   padding: 14px 0px;
+	 
+ }
+
+  
+ 
+ .header{
+   
+  height:60px;
+  
+   
+  
+ }
+ 
+  .content {
+ 
+  height:280px;
+  
+   margin: 0px 250px;
+   
+  
+ }
+ form.example input[type=text] {
+  padding: 10px;
+  font-size: 17px;
+  border: 1px solid grey;
+  float: left;
+  width: 700px;
+  background: #f1f1f1;
+}
+
+/* Style the submit button */
+form.example button {
+  float: left;
+  width: 100px;
+  padding: 10px;
+  background: rgb(31,82,112);
+  color: white;
+  font-size: 17px;
+  border: 1px solid grey;
+  border-left: none; /* Prevent double borders */
+  cursor: pointer;
+}
+
+form.example button:hover {
+  background: #0b7dda;
+}
+
+/* Clear floats */
+form.example::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+
+
+.ellipse {
+                width: 160px;
+                height: 40px;
+				color:white;
+                background-color: orange;
+                border-radius: 40px;
+				  border: 0px;
+            }
+			
+			
+.ellipse2{
+                width: 160px;
+                height: 40px;
+				color:white;
+                background-color: red;
+                border-radius: 40px;
+				  border: 0px;
+            }
+    
+    
+   .ellipse3{
+                width: 160px;
+                height: 40px;
+				color:white;
+                background-color: rgb(49,67,88);
+                border-radius: 40px;
+				  border: 0px;
+            }  
+			
+			
+			.region{
+			  float:left;
+			  overflow:visible;
+	           height:300px;
+			   width:390px;
+			   
+			}
